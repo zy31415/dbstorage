@@ -1,0 +1,16 @@
+cmake-build-debug/
+CMakeFiles/
+_deps/
+bin/
+.idea/
+Testing/
+
+*.cmake
+*.cbp
+*.bin
+*.a
+CMakeCache.txt
+
+storage.db
+
+Makefile
